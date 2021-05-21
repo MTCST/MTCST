@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MTCST
+- 👀 I’m interested in any kind of measurement data and their transfiguration into a usable, readable, reachabel product
+- 🌱 I’m currently learning to be a fullstack developer and starte with ubuntu, apache2, python3.9, venv, django
+- 💞️ I’m looking to collaborate on any inspiring mission
+- 📫 How to reach me: cschilter@gmail.com
